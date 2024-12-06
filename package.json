@@ -1,0 +1,14 @@
+{
+  "name": "blossoming-flowers",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "dev": "npm run development"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "sass": "^1.82.0"
+  }
+}
