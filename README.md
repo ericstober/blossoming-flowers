@@ -48,7 +48,3 @@ blossoming-flowers/
 ├── package-lock.json  # Exact versions of installed packages
 └── .gitignore         # Files and directories to ignore in Git
 ```
-
-## License
-
-This project is licensed under the MIT License.
